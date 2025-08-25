@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "deepseek.apiKey": "sk-8af3c5ff4b494df585f3e352e01e8599",
+  "deepseek.provider": "deepseek"
+}

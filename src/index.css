@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This file must be processed with Tailwind CSS using PostCSS.
+   If you see "Unknown at rule @tailwind", ensure your build tool is set up to use Tailwind.
+*/
